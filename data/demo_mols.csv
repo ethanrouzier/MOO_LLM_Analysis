@@ -1,0 +1,20 @@
+name,smiles
+Benzene,c1ccccc1
+Toluene,Cc1ccccc1
+Aniline,Nc1ccccc1
+Phenol,Oc1ccccc1
+Anisole,COc1ccccc1
+Nitrobenzene,O=[N+]([O-])c1ccccc1
+Benzoic acid,O=C(O)c1ccccc1
+Ethyl benzoate,CCOC(=O)c1ccccc1
+Acetophenone,CC(=O)c1ccccc1
+Benzyl alcohol,OCc1ccccc1
+Styrene,C=Cc1ccccc1
+Ethylbenzene,CCc1ccccc1
+Chlorobenzene,Clc1ccccc1
+Fluorobenzene,Fc1ccccc1
+Bromobenzene,Brc1ccccc1
+Iodobenzene,Ic1ccccc1
+Naphthalene,c1cccc2ccccc12
+Salicylic acid,O=C(O)c1cc(O)ccc1O
+Paracetamol,CC(=O)NC1=CC=C(O)C=C1O
